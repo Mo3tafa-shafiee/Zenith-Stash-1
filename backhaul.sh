@@ -1862,7 +1862,7 @@ display_menu() {
     echo
     colorize green " 1. Configure a new tunnel [IPv4/IPv6]" bold
     colorize red " 2. Tunnel management menu" bold
-    colorize cyan " 3. Check tunnels status" bold
+    colorize cyan " 3. Monitor tunnels port" bold
  	echo -e " 4. Optimize network & system limits"
  	echo -e " 5. Update & Install Backhaul Core"
  	echo -e " 6. Update & install script"
