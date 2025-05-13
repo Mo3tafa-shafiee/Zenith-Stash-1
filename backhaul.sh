@@ -198,7 +198,7 @@ EOF
     if [[ -f "${config_dir}/backhaul_premium" ]]; then
     	echo -e "Core Version: ${YELLOW}$($config_dir/backhaul_premium -v)${GREEN}"
     fi
-    echo -e "Telegram Channel: ${YELLOW}@nofilter98${NC}"
+    echo -e "Telegram Channel: ${YELLOW}@ID${NC}"
 }
 
 # Function to display server location and IP
